@@ -13,3 +13,9 @@
 	* From OneDrive [Projects\CafModelingAgroecosystemClasses\2017\Methods\GIS\Input\]
 * [aec_dryland.dbf]
 	* From Github: CafModelingFlexCropping_CropSyst\template\Dbfs\aec_dryland.dbf
+	
+## 03/20/2018
+* [season_all_20180320.dat]
+	* Copied from local machine (backup may be on CAHNRS cloud? or Archive drive?  I haven't backed it up at time of writing)
+	* C:\Files\Projects\CafModelingFlexCropping\Feb2018RunOnThinkmate2_20180227\18-02-26\season_all_20180320.dat
+	* Original file generated using script from git repo: [CafModelingFlexCropping_CropSyst\scripts\R\CollateFilesByLoc\collate.R]
